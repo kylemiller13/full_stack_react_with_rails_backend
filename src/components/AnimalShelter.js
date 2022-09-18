@@ -42,7 +42,6 @@ useEffect(() => {
             </li>
           )}
         </ul>
-        {/* {seeAnimals[0].name} */}
       </React.Fragment>
     );
   }
